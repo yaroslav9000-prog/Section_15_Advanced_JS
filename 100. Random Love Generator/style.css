@@ -1,0 +1,9 @@
+body{
+    box-sizing: border-box;
+    text-align: center;
+    background: linear-gradient(45deg,rgb(174, 69, 86),rgb(239, 4, 51));
+    height: 100vh;
+}
+input{
+    margin: 5px;
+}
